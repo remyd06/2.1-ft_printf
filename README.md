@@ -8,7 +8,7 @@ Handling the display of the percent character (%) alone.
 ## Usage
 Clone this repository to your local machine:
 ```bash
-git clone https://github.com/your_username/ft_printf.git
+git clone [https://github.com/your_username/ft_printf.git](https://github.com/remyd06/2.1-ft_printf.git)
 ```
 Compile the project by executing the following command:
 ```bash
